@@ -1,2 +1,2 @@
-# DataScienceProjects
+# Data Science Projects
 This repository showcases collection of my hands-on data science projects completed through DataCamp. Each project within this repository represents practical applications of data analysis, machine learning, and statistical modeling techniques aimed at solving real-world problems. From exploratory data analysis to predictive modeling, these projects demonstrate my skills in using Python and various data science libraries to derive insights from data and make data-driven decisions.
